@@ -1,0 +1,12 @@
+14444466616165154661644  System.Windows.Forms.TextBox, Text: hello
+
+14445455515556685856561568  System.Windows.Forms.TextBox, Text: hello world
+
+155515151515555555555  System.Windows.Forms.TextBox, Text: VNGFMNVNXMVBGFNN
+
+0300354962445555555555555  hello world
+
+12345672728253253523523  hello world
+
+99995512121554448884545555545  fdgbjlng,jdnvjdbgb,dn
+
